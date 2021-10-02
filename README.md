@@ -21,4 +21,7 @@
   <a href="https://instagram.com/israel_L4K" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:israel.o1328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/israel-oliveira-633a871a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/coringaL4K/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
