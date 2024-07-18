@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo javascript
 - 💞️ Estou disposto a colabora em CSS, HTML e JavaScript
 <div align="center">
-  <a href="https://github.com/coringaL4K">
+  <a href="https://github.com/Israel-Oliveira-L4K">
   <img height="180em" width="45%"src="https://github-readme-stats.vercel.app/api?username=coringaL4K&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=coringaL4K&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -22,6 +22,6 @@
   <a href = "mailto:israel.o1328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/israel-oliveira-633a871a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/coringaL4K/coringaL4K/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Israel-Oliveira-L4K/coringaL4K/blob/output/github-contribution-grid-snake.svg)
   
 </div>
